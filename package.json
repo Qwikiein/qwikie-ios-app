@@ -1,0 +1,16 @@
+{
+  "name": "qwikie-ios-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Qwikie iOS application",
+  "scripts": {
+    "web": "echo Qwikie web app",
+    "build": "echo Build prepared"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.0"
+  }
+}
