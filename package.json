@@ -8,9 +8,11 @@
     "build": "echo Build prepared"
   },
   "dependencies": {
-    "@capacitor/core": "^7.4.0"
+    "@capacitor/core": "^7.4.0",
+    "@capacitor/ios": "^7.4.0"
   },
   "devDependencies": {
-    "@capacitor/cli": "^7.4.0"
+    "@capacitor/cli": "^7.4.0",
+    "typescript": "^7.0.2"
   }
 }
